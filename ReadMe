@@ -1,0 +1,64 @@
+# Shopping Back End
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Application](#application)
+- [images](#images)
+- [Tests](#tests)
+- [questions](#questions)
+- [Contributing](#contributing)
+- [License](#license)
+- [Copyright](#copyright)
+
+
+## Description
+- E-Commerce Back End is a node command line application that utilizes sequilize, dotenv, and mysql2
+
+
+## Installation
+Follow these steps to install this project on your local machine.
+- Open Bash editor
+- mkdir ECommerceBackEnd
+- cd ECommerceBackEnd
+- git clone https://github.com/Altheahanson/Shopping-BackEnd.git
+- npm i
+
+
+## Usage
+- After cloning this repository...
+- Production mode: npm start
+- Developer mode: npm run dev
+
+## Application
+- Link to Deployed Application: NONE
+
+
+## Images
+- -![ECommerceBackEnd](./assets/Shopping_backend.gif)
+- -![VIEW on Google Drive](https://drive.google.com/file/d/1uVBN8psQjFEjsnHHd53W7PKKnrr2VdPO/view?usp=sharing)
+
+## Tests
+- node run test
+
+
+## Questions
+- GitHub: https://github.com/Altheahanson
+- Email: altheacarlenehanson@gmail.com
+
+
+## Contributing
+- If you would like to contribute...
+- Email Me
+
+
+## License
+   This project is licenses under the General Public License v3.0 license.
+
+
+
+## Copyright
+- © Copyright 2022 Althea Hanson
